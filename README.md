@@ -10,6 +10,8 @@
 
 # Windows
 
+- baixar as [imagens](https://imgbox.com/g/7EU10eb6ID)
+
 ## Settings
 
 - Sistema
@@ -18,10 +20,12 @@
     - Ajustar janelas: Apenas a última opção: "Quando eu arrasto uma janela, deixe-me ajustá-la sem srrastar até a borda da tela
     - Sacudir a barra de título da janela: Desativado
 - Personalização
+  - Tela de fundo
+    - Colocar a imagem
   - Cores
     - Escolher seu modo: escuro
   - Tela de bloqueio
-    - Personalizar sua tela de bloqueio: imagem (TODO: colocar imagem em uma pasta, e fazer um step em que todas sejam baixadas)
+    - Personalizar sua tela de bloqueio: imagem
     - Status da tela de bloqueio: nenhum
   - Iniciar
     - Layout: Mais marcações
@@ -29,7 +33,7 @@
     - Mostrar aplicativos mais usados: Desativado
     - Mostrar itens abertos recentemente em Iniciar...: Desativado
     - Mostrar recomendações para dicas, atalhos, novos aplicativos e muito mais: Desativado
-    - Pastas: "Configurações" apenas
+    - Pastas: Nenhuma
   - Barra de tarefas
     - Intens da barra de tarefas
       - Desativar tudo
@@ -54,7 +58,7 @@
     - Usar Assistente de Compartilhamento: Desativado
     - Mostrar Rede: Desativado
 - Acesso rápido
-  - pasta com o nome do usuário
+  - fixar pasta do usuário para acessar mais facilmente
 
 ## Barra de tarefas
 
@@ -65,7 +69,6 @@
 ## Área de trabalho
 
 - Exibir => Mostrar ícones da área de trabalho: Desativado
-- TODO: Baixar e instalar wallpaper
 
 # Programas
 
